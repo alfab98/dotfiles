@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexfabry98@gmail.com
+	name = Alexandre Fabry
